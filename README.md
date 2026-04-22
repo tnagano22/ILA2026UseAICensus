@@ -3,4 +3,4 @@ Reference documents for the poster presentation about using AI for analyzing lan
 
 - [Poster presentation](docs/ILA2026Poster.pdf)
 - [Replication of Nagano (2015)](docs/Nagano2015a_replication.md)
-- 
+- [Nagano (2015) pre-proof version](docs/Nagano2015aPreproof.pdf)
